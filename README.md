@@ -1,6 +1,6 @@
 # Terraform: A Comprehensive Guide
 
-Terraform, an open-source Infrastructure as Code (IaC) tool developed by HashiCorp, is a powerful tool that allows users to define and manage infrastructure resources. It's cloud-independent, meaning it can be used on any cloud, local, or hybrid environments, unlike AWS cloud formation, which is cloud-dependent and can only be used on AWS.
+Terraform, an open-source Infrastructure as Code (IaC) tool developed by HashiCorp, is a powerful tool that allows users to define and manage infrastructure resources. It's cloud-independent, meaning it can be used on any cloud, local, or hybrid environments, unlike AWS cloud formation, which is cloud-dependent and can only be used on AWS. {deletedgit}
 
 ## Understanding Terraform
 
