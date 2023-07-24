@@ -129,7 +129,7 @@ provider "aws" {
 # Launch an ec2 in Ireland
 resource "aws_instance" "app_instance" {
   # which machine/OS version etc. AMI-id ubuntu 18.04LTS
-  ami = "ami-0943382e114f188e8"
+  ami = "<ami-id></ami-id>"
 
   # what type of instance
   instance_type = "t2.micro"
