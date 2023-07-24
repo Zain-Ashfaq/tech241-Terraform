@@ -96,9 +96,9 @@ After Terraform has provisioned the infrastructure, Ansible playbooks can be use
 
 1. On the Windows taskbar, right-click the Windows icon and select "System."
 2. In the Settings window, under "Related Settings," click "Advanced system settings."
-   ![Figure 7-1 Advanced System Settings in Windows](https://example.com/figure-7-1.png)
+
 3. On the "Advanced" tab, click "Environment Variables."
-   ![Figure 7-2 Environment Variables Dialog in Windows](https://example.com/figure-7-2.png)
+
 4. In the "Environment Variables" dialog, click "New" to create a new environment variable for the AWS Access Key. If you already have a variable named "AWS_ACCESS_KEY_ID," click "Edit" to modify it.
 5. Set the variable name as "AWS_ACCESS_KEY_ID" and the value as your AWS Access Key ID provided by AWS.
 6. Click "OK" to save the new environment variable.
